@@ -180,7 +180,7 @@ color:var(--yellow-color);
 /* End subscribe */
 /* Start Footer */
 .footer{
-    background-color: var(--dark-color);
+    background-color:var(--dark-color);
 }
 .footer .copyright > span{
     color:var(--green-color);
